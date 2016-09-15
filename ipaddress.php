@@ -1,0 +1,1 @@
+ip_address=1.2.3.4&lat=-6.1744&lon=106.8294&isp=Mamam Yuk

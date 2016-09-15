@@ -1,0 +1,162 @@
+<settings>
+<client ip="1.2.3.4" lat="-6.3341" lon="106.7610" isp="Mamam yuk" isprating="3.6" rating="0" ispdlavg="12322" ispulavg="10176" loggedin="0"/>
+<server-config threadcount="4" ignoreids="683,1525,1719,1758,1762,1815,1816,1834,1839,1840,1850,1854,1859,1860,1861,1871,1873,1875,1877,1880,1913,3280,3383,3448,3695,3696,3697,3698,3699,3725,3726,3727,3728,3729,3730,3731,3733,3788,3913,4140,4533,4787,5023,5024,5025,5026,5027,5028,5029,5030,5031,5032,5033,5085,5086,5087,5107,5108,5109,5111,5112,5113,5114,5115,5116,5117,5118,5348,5517,5894,6130,6285,6397,6398,6412,7211,7326,7334,7529,949,5249" notonmap="8036,7907,4179,4139,5718,6051,4231,4810,4781,6735,2801,5237,6931,6768,7228,4692,4689,7775,7594,6891,7322,8009,5478,4467,4908,5844,1930,4745,6866,6616,7439,7008,6563,5285,4984,6307,6053,5201,8072,6827,6985,5580,6562,4381,5581,4472,2322,5040,7531,4835,6479,1832,8205,6572,2696,5950,6430,6254,5147,7579,7303,4219,1119,3704,4521,3326,7532,6590,5664,5206,4493,7618,951,5972,5211,7194,5651,3149,1000,2636,5046,2264,7361,1904,7396,5284,7619,6059,6032,6115,5911,385,8066,8281,7437,7352,4008,5090,4778,2802,6522,5679,2822,6088,5072,6446,6195,6010,831,1108,5884,5447,7743,6578,8142,7560,8040,7803,8196,8068,8223,6589,2356,4396,8051,8035,5305,2713,6027,972,1688,5582,4838,6614,4708,6070,7412,6635,7354,7251,7842,6851,2443,6575,6769,5707,4714,3583,6553,7638,8155,7525,6689,2334,7839,8211,7757,6953,5331,7044,2635,4811,7088,4089,1483,2155,7758,7686,8107,7609,4590,4169,4659,6737,4453,515,3860,5210,4049,2565,7384,7537,4962,7729,7829,2485,2978,7440,1903,7403,7617,6973,7283,3079,7898,5463,6485,7467,7188,7193,3104,5934,2896,4374,1755,8147,7111,6672,7246,6267,4128,1781,7672,7170,7546,3747,6903,6474,7296,4589,7065,7575,7970,4349,5875,5098,6286,4317,6794,3422,6272,6722,6855,3007,6033,5861,6047,5602,3864,5905,6076,7244,7456,8175,8049,7048,7190,6299,8169,2618,6561,6007,7671,3567,5534,4680,6074,2586,1266,4081,8016,6937,2812,7847,6588,3602,7256,4848,2767,4937,6782,3892,5942,6838,7946,1999,5315,2181,2327,5661,7429,5528,6401,6707,4871,1441,7469,7076,6597,6391,4773,3458,3615,6658,7147,4406,6407,6321,4535,6410,4728,7198,6767,2428,3870,6454,4641,8129,8308,7605,8131,7950,6746,4883,7002,5965,6675,8122,5079,6261,5311,4491,2679,6783,5779,5230,6749,7319,6708,7954,7128,5320,6683,6383,1238,7205,3855,6283,5920,5609,8037,7662,6194,7115,6521,5394,5440,5431,7223,7408,2583,7231,8143,4165,6243,7239,7379,7868,7971,4706,7784,6756,5797,6610,4673,1452,2504,2427,6970,7474,4442,7711,4085,6537,6618,4161,6858,4306,480,2213,5935,4235,367,5304,6341,5168,7311,7556,7368,7009,7046,5748,6370,4445,7122,7938,6348,8229,7425,4615,4614,5777,4210,7582,5248,7410,6281,7959,7680,7438,7762,7272,6146,6612,4594,6833,2194,5963,3846,8261,6480,2821,6110,5065,6493,7397,7370,4909,3611,6535,6615,4992,4921,5557,6829,8091,6773,4147,6533,4545,5696,7690,4899,8290,6896,3759,6246,7254,6688,6921,7761,2963,6154,5205,1931,7631,1267,6355,3234,6314,5891,6093,2962,7318,1818,7166,5203,7696,7206,6825,4336,2720,721,5539,4953,5749,4775,5412,7279,6141" forcepingid="" preferredserverid=""/>
+<licensekey>9c1687ea58e5e770-1df5b7cd427370f7-4b62a84526ea1f56</licensekey>
+<customer>speedtest</customer>
+<odometer start="8379287919" rate="38"/>
+<times dl1="5000000" dl2="35000000" dl3="800000000" ul1="1000000" ul2="8000000" ul3="35000000"/>
+<download testlength="10" initialtest="250K" mintestsize="250K" threadsperurl="4"/>
+<upload testlength="10" ratio="5" initialtest="0" mintestsize="32K" threads="2" maxchunksize="512K" maxchunkcount="50" threadsperurl="4"/>
+<latency testlength="10" waittime="50" timeout="20"/>
+<socket-download testlength="15" initialthreads="4" minthreads="4" maxthreads="32" threadratio="750K" maxsamplesize="5000000" minsamplesize="32000" startsamplesize="1000000" startbuffersize="1" bufferlength="5000" packetlength="1000" readbuffer="65536"/>
+<socket-upload testlength="15" initialthreads="dyn:tcpulthreads" minthreads="dyn:tcpulthreads" maxthreads="32" threadratio="750K" maxsamplesize="1000000" minsamplesize="32000" startsamplesize="100000" startbuffersize="2" bufferlength="1000" packetlength="1000" disabled="false"/>
+<socket-latency testlength="10" waittime="50" timeout="20"/>
+<conditions>
+<cond name="tcpulthreads" download="+100000" value="8"/>
+<cond name="tcpulthreads" download="+10000" value="4"/>
+<cond name="tcpulthreads" value="2"/>
+</conditions>
+<interface template="mbps" colortcp="0"/>
+<translation lang="xml">
+<text id="rateyourisp">Nilai ISP Anda</text>
+<text id="copy">SALIN IP</text>
+<text id="long-kbps">kilobit</text>
+<text id="long-Mbps">megabit</text>
+<text id="newserver">SERVER BARU</text>
+<text id="testagain">TES LAGI</text>
+<text id="uploadspeed">KECEPATAN UNGGAH</text>
+<text id="downloadspeed">KECEPATAN UNDUH</text>
+<text id="kbps">kbps</text>
+<text id="Mbps">Mbps</text>
+<text id="begintest">MULAI TES</text>
+<text id="startclosest">MULAI TES PADA SERVER YANG DIREKOMENDASIKAN</text>
+<text id="long-MB/s">megabyte</text>
+<text id="long-kB/s">kilobyte</text>
+<text id="kB/s">kB/s</text>
+<text id="MB/s">MB/s</text>
+<text id="mbps">Mbps</text>
+<text id="ratinghelp">
+Seberapa senang Anda dengan penyedia layanan internet Anda saat ini?
+</text>
+<text id="rating1">Sangat tidak senang</text>
+<text id="rating2">Tidak senang</text>
+<text id="rating3">Netral</text>
+<text id="rating4">Senang</text>
+<text id="rating5">Sangat senang</text>
+<text id="speedwavebegin">HASIL ANDA AKAN MENJADI BAGIAN DARI SPEED WAVE</text>
+<text id="ping">PING</text>
+<text id="hostedby">Diselenggarakan oleh</text>
+<text id="counterdescription">TOTAL TES SAMPAI SAAT INI</text>
+<text id="copied">DISALIN</text>
+<text id="autostartdesc">MULAI TES KECEPATAN SECARA OTOMATIS DALAM</text>
+<text id="seconds">DETIK</text>
+<text id="second">DETIK</text>
+<text id="error">GALAT</text>
+<text id="tryagain">Coba Lagi</text>
+<text id="share-wavetitle">MULAI SPEED WAVE</text>
+<text id="share-namewave">Nama Speed Wave</text>
+<text id="share-waveresults">Kini hasil Anda adalah bagian dari Speed Wave!</text>
+<text id="compare-yourtest">Hasil Anda</text>
+<text id="survey-surveytitle">Bantu Kami Memahami Biaya Jalur Lebar</text>
+<text id="survey-downloadpackage">Unduh Paket</text>
+<text id="survey-uploadpackage">Unggah Paket</text>
+<text id="survey-howmuch">Berapa tagihan bulanan Anda?</text>
+<text id="survey-includes">Termasuk:</text>
+<text id="survey-postalcode">Berapa kode pos Anda?</text>
+<text id="survey-submit">KIRIM</text>
+<text id="share-accounttitle">DAPATKAN AKUN GRATIS OOKLA SPEEDTEST</text>
+<text id="share-accountdescription">
+Dengan log masuk Anda dapat memulai Speed Wave di sini! Pendaftaran gratis dan hanya memelukan alamat email yang valid.
+</text>
+<text id="share-emailaddress">Alamat Email Anda</text>
+<text id="share-twitterurl">
+https://twitter.com/share?text=Cari%20tahu%20hasil%20%40Ookla%20Speedtest%20saya!%20Berapa%20kecepatan%20internet%20Anda%3F&url=http%3A%2F%2Fwww.speedtest.net%2Fmy-result%2F{RESULTID}&related=ookla%3ACreators%20of%20Ookla%20Speedtest&hashtags=speedtest
+</text>
+<text id="share-facebookurl">
+https://www.facebook.com/dialog/feed?app_id=581657151866321&link=http://www.speedtest.net/my-result/{RESULTID}&description=Ini%20hasil%20Ookla%20Speedtest%20saya.%20Bandingkan%20kecepatan%20internet%20Anda%20dengan%20kecepatan%20internet%20saya!&redirect_uri=http://www.speedtest.net&name=Cari%20tahu%20hasil%20Ookla%20Speedtest%20saya!%20Berapa%20kecepatan%20internet%20Anda%3F
+</text>
+<text id="share-viewwave">LIHAT SPEED WAVE</text>
+<text id="share-createwave">BUAT</text>
+<text id="survey-speed">Kecepatan</text>
+<text id="survey-phone">Telepon</text>
+<text id="survey-tv">TV</text>
+<text id="survey-package">
+Berapa kecepatan unduh dan unggah yang dijanjikan pada Anda?
+</text>
+<text id="survey-thanks">Terima kasih telah berpartisipasi dalam survei!</text>
+<text id="selectingbestserver">MEMILIH SERVER TERBAIK BERDASARKAN PING</text>
+<text id="compare-myresults">HASIL SAYA</text>
+<text id="share-createaccount">BUAT</text>
+<text id="begintest-preferred">SERVER PILIHAN ANDA</text>
+<text id="begintest-ping">SERVER YANG DIREKOMENDASIKAN</text>
+<text id="connecting">MENGHUBUNGKAN</text>
+<text id="share-copy">SALIN</text>
+<text id="endtest-share-button">BAGIKAN HASIL INI</text>
+<text id="endtest-compare-button">BANDINGKAN HASIL ANDA</text>
+<text id="endtest-contribute-button">BERKONTRIBUSI PADA NET INDEX</text>
+<text id="close">TUTUP</text>
+<text id="survey-retake">ULANGI SURVEI</text>
+<text id="share-link">URL</text>
+<text id="share-forum">FORUM</text>
+<text id="share-wavedescription">
+Gunakan hasil tes ini untuk memulai Speed Wave Anda!
+</text>
+<text id="pcmagmessage">Fastest ISPs</text>
+<text id="panel0">wave-long</text>
+<text id="panel1">share-long</text>
+<text id="panel2">link:{LANG_CODE}/results.php?source=compare</text>
+<text id="panel3">contribute-long</text>
+<text id="bitspersecond">bit per detik</text>
+<text id="endtest">standard-long</text>
+<text id="lang">id</text>
+<text id="share-pinteresturl">
+http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.speedtest.net%2F&media=http%3A%2F%2Fspeedtest.net%2Fresult%2F{RESULTID}.png&description=Check%20out%20my%20result%20from%20Ookla%20Speedtest!
+</text>
+<text id="panelsuffix">-long</text>
+<text id="survey-nextbtn">Continue</text>
+<text id="survey-editbtn">EDIT</text>
+<text id="survey-download">Download</text>
+<text id="survey-download-validate">Download:</text>
+<text id="survey-upload">Upload</text>
+<text id="survey-upload-validate">Upload:</text>
+<text id="survey-connectiontype">Connection Type?</text>
+<text id="survey-q1label1">Home</text>
+<text id="survey-q1label2">Business</text>
+<text id="survey-q1label3">School</text>
+<text id="survey-q1label4">Public Wi-Fi</text>
+<text id="survey-q1label5">Other</text>
+<text id="survey-ispconf">My ISP is:</text>
+<text id="survey-q2label1">Yes</text>
+<text id="survey-q2label2">Wrong</text>
+<text id="survey-q3label1">Yes</text>
+<text id="survey-q3label2">Wrong</text>
+<text id="survey-postalcode-input">Please enter your postal code</text>
+<text id="survey-labelispinput">Please enter your ISP name</text>
+<text id="survey-okbtn">OK</text>
+<text id="survey-validationUploadline1">
+Please check your upload speed. This seems faster than expected.
+</text>
+<text id="survey-validationAmountline1">
+Please check the amount entered. This seems higher than expected.
+</text>
+<text id="survey-validationDownloadline1">
+Please check your Download speed. This seems faster than expected.
+</text>
+<text id="share-web">WEB</text>
+<text id="share-html">EMBED</text>
+<text id="endtest-contribute-are-you-on">Are you on</text>
+<text id="endtest-contribute-take-survey">Take our Broadband Internet Survey!</text>
+<text id="endtest-test-again">TEST AGAIN</text>
+<text id="endtest-compare">COMPARE</text>
+</translation>
+<survey>
+<defaults postal_code="" isp_name="BONBIN.NET" isp_common_name="Mr.TALL"/>
+<currency sign="Rp" rate_USD="0.0001"/>
+</survey>
+<panels panel0="wave-bd-wide" panel1="share-wide" panel2="link:id/results.php?source=compare" panel3="contribute-wide-long"/>
+<endtest endtest="standard-wide-long"/>
+<override>
+<banner id="59" url="http://www.reviversoft.com/pc-reviver/lp/speedtest2/index.php?CID=ST&utm_source=speedtest&utm_medium=recommendation&utm_campaign=PCR" banner="http://c.speedtest.net/flash/59rvvrpc.swf" target="_self" present="true"/>
+<banner id="60" url="http://speedify.com/spotlight/lp-1-1/?source=ookla&campaign=speedtest01&utm_source=speedtest&utm_medium=banner&utm_campaign=speedtest01" banner="http://c.speedtest.net/flash/60speedify1-en.swf" target="_blank" present="true"/>
+</override>
+</settings>
