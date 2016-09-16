@@ -1,8 +1,8 @@
 # fake-speedtest
 
-# fake speedtest squid-3.x.x
+# fake speedtest Squid3 & Squid-4
 puji ermanto aka mamam yuk<br>
-disini saya menggunakan OS debian7<br>
+disini saya menggunakan OS debian7 dan Squid-4.0.4 untuk proxynya<br>
 langsung clone ajah dimari
 * clone lewat github :
 ```bash
@@ -54,7 +54,7 @@ chmod +x /etc/squid/rewritespeedtest.pl
 ```
 ```bash
 #!/usr/bin/perl
-# @ http://www2.fh-lausitz.de/…/comp/misc/squid/projekt_youtube/
+# @ http://www2.fh-lausitz.de/â€¦/comp/misc/squid/projekt_youtube/
 # referensi dan terimakasih khususnya pada MikroTiker N SquidLover-Ces Pun-Syaifudin JW aka Ucok Karnadi
 # di publish oleh mamam yuk 
 #### var
@@ -111,6 +111,6 @@ close $logfh if ($debug);
 
 # keterangan
 * 192.168.9.200 = ip address proxy server / webserver /ubuntu server /debian server
-* speedtest = cache_peer untuk fake speedtest<br>
+* speedtest = direktori minispeedtest di webserver yang nanti akan di reverse dari oleh proxy<br>
 # ================The End================= 
 
